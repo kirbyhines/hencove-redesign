@@ -1,10 +1,9 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
+/** @format */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 a {
   color: inherit;
@@ -13,4 +12,14 @@ a {
 
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  overscroll-behavior: none;
+}
+
+.title-gradient {
+  font-size: 50px;
+  background: -webkit-linear-gradient(#6091d3, #d0d7e1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
