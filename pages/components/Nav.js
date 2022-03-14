@@ -32,7 +32,7 @@ function Nav() {
         </h2>
 
         <button className="text-[#fff] font-semibold tracking-widest text-sm py-2 px-2 mr-5 bg-orange rounded-md hover:scale-105">
-          LET'S CHAT
+          LET`&apos;`S CHAT
         </button>
       </div>
     </div>
