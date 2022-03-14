@@ -33,7 +33,7 @@ function MobileMenu() {
               </h2>
 
               <button className="text-[#fff] font-semibold tracking-widest text-sm py-2 px-2 bg-orange rounded-md">
-                LET`&apos;`S CHAT
+                LET&apos;S CHAT
               </button>
             </div>
           </div>

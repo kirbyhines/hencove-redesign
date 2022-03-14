@@ -16,7 +16,7 @@ function About() {
         </h1>
         <p className="text-sm font-extralight text-blue leading-5 w-[90%]  mb-5">
           The name Hencove is inspired by a tranquil harbor in Massachusetts
-          called Hen`&apos;`s Cove. Every brand is on a journey and we are the
+          called Hencove&apos;s Cove. Every brand is on a journey and we are the
           proud co-captains with our clients on their voyage. Based in
           Watertown, Hencove offers both the personal feel of a boutique shop
           and the power of a full-service marketing agency. As a values-based
