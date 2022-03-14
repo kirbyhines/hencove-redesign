@@ -19,7 +19,7 @@ export default function Home() {
         />
         <div className="flex flex-col items-center text-center mb-16">
           <h1 className="text-4xl font-extralight mb-2 text-blue">
-            We Build Brands.
+            We Build Brands
           </h1>
           <h1 className="text-4xl font-extralight mb-5 text-blue">
             We Share Their Stories
